@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+pymupdf
+pdfplumber
+python-dotenv
+pandas
+jupyterlab
+httpx
+streamlit
